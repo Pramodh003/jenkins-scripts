@@ -1,3 +1,3 @@
 def call() {
-  sh "Hi from devops team.This is shared library"
+  sh "echo Hi From DevOps Team"
 }
